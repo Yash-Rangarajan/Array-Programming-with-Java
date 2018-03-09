@@ -5,7 +5,7 @@ If the vector has [9, 9, 9]
 the returned vector should be [1,0,0,0]
 as 999 + 1 = 1000.*/
 
-public class Solution {
+public class AddOneToArray {
     public int[] plusOne(int[] A) {
         int zeroCount = 0;
         boolean doweneedExtraone = true;
